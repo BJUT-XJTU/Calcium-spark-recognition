@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pic_train_十字构造_截图</folder>
+	<filename>z82_13.jpg</filename>
+	<path>D:\研究生\导师\西安交大项目\实验用数据\原始数据\心房肌细胞_atrial\3.16实验数据\train_pic\pic_train_十字构造_截图\z82_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>387</ymin>
+			<xmax>463</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,1046 @@
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_1.png 211,392,275,454,0 366,436,430,549,0 62,489,117,599,0 262,46,307,79,0 244,10,278,34,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_10.png 228,141,291,229,0 334,201,368,262,0 215,64,265,134,0 33,71,62,124,0 412,63,443,88,0 203,409,265,466,0 241,501,291,568,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_11.png 131,264,181,342,0 213,281,261,308,0 125,375,185,414,0 167,521,276,556,0 437,436,461,484,0 428,521,460,567,0 272,153,322,255,0 311,132,340,229,0 3,293,21,312,0 5,458,30,534,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_12.png 100,186,168,216,0 88,107,135,294,0 310,289,350,335,0 336,230,379,281,0 384,355,433,430,0 137,514,187,554,0 131,576,194,595,0 204,2,254,45,0 301,44,349,67,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_13.png 339,209,399,332,0 78,204,134,290,0 156,170,196,204,0 162,89,203,145,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_14.png 77,137,120,207,0 79,231,147,305,0 331,185,370,260,0 241,353,288,436,0 308,486,338,514,0 305,524,343,575,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_15.png 296,49,360,95,0 443,39,503,161,0 93,321,131,462,0 21,228,48,282,0 305,424,352,462,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_2.png 36,233,71,267,0 15,287,49,326,0 128,333,215,387,0 152,175,194,243,0 331,76,358,115,0 413,284,442,364,0 1,94,19,192,0 1,513,34,550,0 73,458,111,513,0 176,510,218,561,0 301,450,347,523,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_3.png 274,232,332,336,0 203,340,310,379,0 415,364,469,430,0 232,498,290,567,0 80,465,151,572,0 61,184,124,225,0 2,116,143,176,0 87,55,137,123,0 278,8,321,48,0 287,50,324,68,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_4.png 5,390,65,437,0 57,468,127,598,0 150,508,195,600,0 207,418,234,484,0 306,502,348,547,0 331,313,390,380,0 386,235,416,307,0 347,187,379,239,0 332,74,386,118,0 229,189,262,235,0 242,241,283,276,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_5.png 118,241,187,268,0 155,276,200,318,0 284,433,316,482,0 271,481,316,556,0 128,467,179,600,0 332,87,362,143,0 67,84,126,170,0 375,1,484,149,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_6.png 71,298,129,431,0 70,208,110,296,0 14,465,67,537,0 19,536,84,559,0 276,517,326,551,0 274,567,313,600,0 430,164,468,203,0 384,59,424,107,0 468,6,496,89,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_7.png 222,150,263,213,0 277,174,317,280,0 205,221,240,261,0 43,210,77,239,0 325,511,375,598,0 339,516,407,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_8.png 243,275,281,320,0 180,552,212,592,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z100_9.png 209,248,260,322,0 288,219,328,292,0 390,315,427,369,0 450,250,505,334,0 275,385,323,446,0 235,343,282,422,0 29,321,69,409,0 182,13,235,70,0 495,553,512,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z10_1.png 411,190,443,252,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z10_10.png 141,237,270,289,0 413,243,463,378,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z10_12.png 171,2,255,179,0 181,442,218,485,0 377,496,398,590,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z10_13.png 84,319,128,503,0 495,227,519,356,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z10_15.png 252,310,284,396,0 495,379,516,595,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z10_2.png 350,540,375,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z10_4.png 47,235,89,431,0 336,213,372,305,0 290,495,317,557,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_10.png 1,330,25,427,0 260,429,311,502,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_11.png 443,224,467,347,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_12.png 333,80,357,200,0 433,332,460,399,0 454,15,490,187,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_13.png 54,222,79,273,0 331,272,353,313,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_14.png 97,345,188,376,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_15.png 348,131,371,194,0 464,30,488,122,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_2.png 196,316,232,413,0 429,264,456,329,0 487,254,512,362,0 473,21,493,72,0 407,587,421,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_3.png 388,238,409,255,0 383,275,404,295,0 428,165,463,204,0 321,459,361,537,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_4.png 382,369,411,430,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_5.png 460,263,494,333,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_6.png 23,165,48,228,0 24,242,52,316,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_7.png 211,27,243,79,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_8.png 403,457,433,543,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z11_9.png 495,98,519,306,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z12_10.png 50,339,81,365,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z12_12.png 133,158,191,314,0 352,425,432,595,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z12_13.png 147,306,177,449,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z12_14.png 47,253,75,288,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z12_15.png 338,193,446,273,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z12_2.png 446,348,479,378,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z12_4.png 279,484,306,548,0 370,533,408,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z12_6.png 397,74,480,173,0 414,257,458,301,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z12_7.png 283,8,332,55,0 411,68,465,275,0 386,489,415,591,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_1.png 46,235,64,255,0 125,281,150,308,0 216,363,242,392,0 438,169,460,189,0 410,461,461,594,0 2,574,44,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_10.png 241,70,266,97,0 267,296,308,346,0 243,353,266,397,0 433,50,473,129,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_11.png 219,340,257,437,0 432,138,489,486,0 465,38,491,146,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_12.png 322,328,363,460,0 430,465,486,515,0 449,292,470,320,0 446,211,471,271,0 349,13,383,118,0 441,3,478,23,0 222,523,256,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_13.png 131,211,184,241,0 251,5,338,229,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_14.png 404,80,427,102,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_2.png 36,98,74,316,0 106,96,138,180,0 254,212,273,285,0 223,359,258,399,0 17,195,32,241,0 54,515,104,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_3.png 243,186,270,251,0 123,416,143,478,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_4.png 97,29,114,108,0 176,164,281,225,0 336,269,377,522,0 244,446,265,522,0 136,283,172,353,0 91,363,126,419,0 447,279,477,334,0 401,537,428,593,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_5.png 234,190,279,237,0 236,294,278,354,0 110,450,147,470,0 246,498,268,540,0 367,278,397,384,0 407,214,424,256,0 443,178,475,245,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_6.png 118,158,155,269,0 336,316,375,397,0 332,422,361,454,0 333,518,385,593,0 381,537,431,595,0 50,469,77,529,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_7.png 359,86,402,224,0 179,29,202,95,0 178,555,205,594,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_8.png 30,70,84,250,0 330,278,360,334,0 447,254,479,286,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z13_9.png 419,7,449,293,0 316,1,358,248,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_1.png 110,265,161,320,0 197,356,234,381,0 330,332,343,348,0 306,210,400,231,0 335,123,353,143,0 212,579,231,598,0 444,559,487,576,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_10.png 209,490,275,586,0 319,492,363,553,0 457,164,504,185,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_11.png 14,227,41,247,0 457,522,501,573,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_12.png 302,91,368,120,0 405,98,431,179,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_13.png 21,248,103,455,0 130,329,168,395,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_14.png 114,118,159,202,0 27,361,73,545,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_15.png 255,170,281,200,0 295,144,352,202,0 47,189,77,225,0 40,328,80,376,0 126,292,155,395,0 224,295,251,360,0 388,12,422,79,0 40,5,82,49,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_2.png 66,358,115,574,0 72,482,91,505,0 225,350,250,376,0 468,36,503,72,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_4.png 374,95,398,186,0 456,497,506,541,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_5.png 233,21,261,70,0 231,86,314,264,0 225,197,250,241,0 372,73,403,166,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_7.png 171,298,196,350,0 32,455,86,535,0 316,482,345,521,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_8.png 373,89,403,181,0 442,313,482,345,0 322,469,356,493,0 202,541,228,562,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z14_9.png 257,532,299,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_1.png 118,100,153,175,0 119,205,156,263,0 369,385,394,436,0 118,535,194,589,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_11.png 145,489,177,599,0 76,582,93,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_12.png 150,260,172,355,0 93,453,109,500,0 88,505,123,534,0 31,21,71,40,0 63,1,83,44,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_13.png 236,201,276,279,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_14.png 138,188,196,350,0 239,413,283,471,0 143,113,178,150,0 120,56,150,95,0 114,3,150,41,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_15.png 121,105,149,182,0 192,202,216,298,0 107,504,125,557,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_2.png 56,40,82,104,0 113,56,167,130,0 134,168,183,213,0 232,175,267,265,0 99,425,135,532,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_3.png 62,89,104,190,0 47,442,70,465,0 279,59,303,165,0 416,103,447,168,0 244,466,278,510,0 146,520,176,600,0 176,279,205,309,0 183,272,204,390,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_4.png 148,374,182,593,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_5.png 90,199,114,260,0 150,200,174,235,0 152,143,176,193,0 247,102,290,179,0 147,323,173,386,0 191,422,214,524,0 211,496,231,538,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_6.png 113,125,134,144,0 246,47,266,89,0 184,178,214,237,0 66,214,101,408,0 104,497,134,562,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_7.png 158,157,190,226,0 265,315,311,442,0 127,379,175,473,0 135,487,182,529,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_8.png 90,328,112,427,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z15_9.png 164,166,180,249,0 177,332,220,406,0 382,345,410,430,0 191,488,222,595,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z16_11.png 125,438,178,504,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z16_14.png 11,263,87,323,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z16_15.png 186,70,238,262,0 131,269,171,288,0 460,525,504,596,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z16_2.png 5,511,29,530,0 25,501,83,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z16_3.png 89,193,133,234,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z16_4.png 81,373,109,414,0 73,198,116,256,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z16_6.png 161,193,186,286,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z16_7.png 58,298,74,326,0 181,215,230,419,0 18,1,63,68,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z16_8.png 101,427,132,491,0 460,385,480,422,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_1.png 261,328,303,455,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_10.png 100,239,147,319,0 266,498,305,569,0 479,327,504,477,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_11.png 331,167,360,280,0 324,345,358,375,0 317,402,346,423,0 289,434,319,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_12.png 106,170,147,347,0 267,149,297,260,0 475,97,513,155,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_13.png 203,129,226,200,0 233,12,262,102,0 136,1,193,105,0 276,529,299,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_14.png 257,241,308,308,0 264,430,295,570,0 275,4,307,26,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_15.png 28,318,67,396,0 253,433,286,468,0 408,462,442,537,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_2.png 100,109,127,190,0 139,5,196,122,0 272,433,298,509,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_3.png 143,338,187,433,0 326,365,351,448,0 375,167,421,457,0 204,58,252,157,0 260,26,300,103,0 34,66,63,123,0 9,3,24,22,0 233,519,259,592,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_4.png 251,136,295,286,0 358,110,395,192,0 421,488,460,548,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_6.png 33,206,66,266,0 207,430,241,472,0 201,473,234,502,0 417,583,448,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_7.png 57,211,121,305,0 254,354,306,396,0 259,424,301,474,0 421,76,453,113,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_8.png 93,278,152,385,0 248,471,302,572,0 411,74,449,248,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z17_9.png 205,141,238,218,0 276,162,295,219,0 372,324,392,463,0 24,533,62,582,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_1.png 171,306,190,352,0 391,490,424,532,0 445,580,481,599,0 1,559,11,597,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_10.png 143,500,162,566,0 3,506,35,536,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_11.png 30,100,56,173,0 68,390,91,489,0 53,552,106,581,0 376,496,406,563,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_12.png 120,136,141,172,0 36,210,90,243,0 86,318,133,446,0 347,190,383,323,0 459,353,494,406,0 61,1,90,42,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_13.png 28,43,64,153,0 43,93,103,129,0 60,18,110,49,0 26,219,63,280,0 268,489,281,533,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_14.png 246,434,270,489,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_15.png 216,437,240,473,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_2.png 1,349,38,432,0 8,522,30,574,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_3.png 65,133,108,173,0 6,233,59,253,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_4.png 381,543,407,585,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_5.png 374,145,409,209,0 374,425,419,508,0 368,469,424,583,0 371,535,421,562,0 391,560,417,582,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_6.png 365,297,405,329,0 375,110,408,133,0 384,5,438,26,0 368,436,392,460,0 376,569,415,600,0 448,541,493,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_7.png 88,174,130,322,0 148,344,188,486,0 86,471,144,543,0 380,565,403,600,0 373,438,414,491,0 374,353,418,408,0 450,163,484,222,0 380,52,409,141,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_8.png 382,110,407,162,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z18_9.png 189,16,214,95,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z19_2.png 158,246,181,298,0 474,181,509,223,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z19_5.png 386,282,474,357,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z19_6.png 62,217,113,253,0 471,298,504,330,0 419,68,500,115,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z19_9.png 266,369,293,398,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_1.png 147,49,205,135,0 25,99,76,196,0 100,182,168,255,0 16,215,58,330,0 120,493,155,597,0 449,513,470,550,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_10.png 3,1,40,63,0 77,155,106,203,0 177,168,208,212,0 10,343,40,422,0 176,391,204,430,0 184,285,203,312,0 372,394,396,419,0 172,487,210,522,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_11.png 127,348,162,398,0 373,259,407,385,0 491,268,510,323,0 377,482,428,512,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_12.png 45,193,69,245,0 114,197,156,313,0 157,262,199,390,0 176,467,209,553,0 382,292,427,330,0 181,558,214,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_13.png 487,212,511,362,0 76,1,133,64,0 184,527,207,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_14.png 114,168,151,233,0 98,225,175,380,0 344,305,378,354,0 29,403,64,552,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_15.png 110,270,146,489,0 28,436,58,578,0 375,532,404,597,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_2.png 105,118,153,266,0 283,339,310,386,0 366,181,398,299,0 1,421,23,466,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_3.png 1,42,40,208,0 325,35,358,89,0 199,312,241,397,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_4.png 7,50,32,116,0 131,301,179,403,0 3,236,93,383,0 401,24,427,55,0 19,431,60,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_5.png 383,330,418,392,0 428,352,455,427,0 133,466,152,575,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_6.png 155,386,204,547,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_7.png 182,216,219,311,0 114,306,146,363,0 199,323,221,454,0 148,451,200,570,0 198,568,237,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_8.png 78,127,106,154,0 77,9,127,103,0 109,202,164,285,0 5,333,34,406,0 34,382,76,536,0 169,474,210,540,0 284,552,307,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z1_9.png 52,231,94,314,0 131,118,165,169,0 185,167,207,223,0 411,199,438,272,0 403,293,456,410,0 291,412,319,454,0 279,483,323,530,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_1.png 93,119,147,138,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_11.png 417,139,478,333,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_12.png 146,106,181,125,0 73,193,120,229,0 5,553,28,599,0 337,518,372,545,0 335,574,383,596,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_13.png 211,326,242,355,0 441,504,475,546,0 132,550,177,575,0 4,473,64,572,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_14.png 428,1,473,200,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_3.png 338,9,376,49,0 385,162,468,193,0 107,9,150,72,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_4.png 23,518,54,586,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_5.png 439,86,477,123,0 6,378,27,419,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_7.png 230,248,274,315,0 327,453,343,481,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_8.png 1,275,31,349,0 113,431,148,481,0 381,471,414,520,0 428,568,459,587,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z20_9.png 150,183,167,215,0 222,2,261,72,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z21_1.png 371,424,391,485,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z21_12.png 112,93,138,129,0 86,572,137,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z21_2.png 19,281,75,300,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z21_4.png 378,179,402,211,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z21_8.png 94,128,127,160,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z21_9.png 427,104,468,158,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_1.png 460,327,488,372,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_10.png 199,78,244,189,0 357,24,390,132,0 34,35,61,135,0 1,485,28,542,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_11.png 69,482,86,505,0 164,569,178,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_12.png 88,324,110,372,0 58,559,109,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_13.png 53,131,90,198,0 464,407,493,435,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_14.png 212,133,237,200,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_2.png 241,363,278,446,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_3.png 415,243,442,332,0 348,54,372,78,0 77,95,98,142,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_4.png 444,12,481,280,0 153,355,176,385,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_6.png 83,180,102,225,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_7.png 136,7,165,141,0 326,312,361,361,0 455,136,488,217,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_8.png 265,566,304,591,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z22_9.png 268,349,294,445,0 402,215,438,284,0 188,502,214,542,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z23_11.png 267,18,297,50,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z23_12.png 132,209,235,296,0 415,384,504,468,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z23_14.png 396,95,463,145,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z23_5.png 163,495,194,538,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z23_8.png 78,256,134,283,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z24_1.png 126,110,146,138,0 117,207,163,271,0 364,386,403,437,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z24_2.png 225,182,274,223,0 96,418,140,449,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z24_3.png 163,319,246,343,0 177,291,200,305,0 52,118,118,149,0 263,66,308,127,0 400,105,458,153,0 247,475,274,514,0 48,427,72,468,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z25_1.png 375,207,408,246,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z25_10.png 396,364,464,379,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z25_14.png 410,239,431,268,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z25_2.png 374,76,412,108,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z25_4.png 378,198,403,223,0 376,369,400,392,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z25_6.png 410,458,431,533,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z25_7.png 310,151,330,200,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_11.png 431,382,508,410,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_12.png 76,451,148,494,0 393,173,443,283,0 490,409,508,532,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_13.png 97,282,159,341,0 76,49,102,73,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_14.png 278,70,334,103,0 489,244,517,355,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_3.png 63,375,124,428,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_4.png 143,234,163,280,0 150,388,201,409,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_5.png 120,153,148,180,0 294,403,328,464,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_6.png 55,427,105,488,0 82,568,147,597,0 313,548,350,580,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_7.png 234,335,256,366,0 206,75,253,126,0 387,1,455,72,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_8.png 488,340,510,381,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z26_9.png 40,275,88,318,0 18,437,69,475,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_10.png 287,106,326,170,0 37,400,63,451,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_11.png 364,180,408,215,0 294,366,324,413,0 300,506,343,546,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_12.png 28,456,77,498,0 66,551,86,587,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_14.png 284,85,332,119,0 393,257,424,292,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_3.png 376,542,415,579,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_4.png 150,499,170,529,0 456,466,487,506,0 1,124,10,162,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_5.png 137,205,167,260,0 46,548,77,574,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_6.png 145,341,185,391,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_7.png 352,193,415,215,0 408,293,458,333,0 294,336,318,359,0 196,47,234,73,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_8.png 297,393,321,422,0 293,589,322,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z27_9.png 384,62,418,83,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_1.png 306,122,348,152,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_11.png 98,218,143,253,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_12.png 30,133,66,182,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_13.png 212,220,265,267,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_14.png 20,284,87,317,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_3.png 22,65,91,113,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_4.png 125,123,156,148,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_7.png 213,192,243,231,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_8.png 296,170,345,242,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z28_9.png 266,350,313,392,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z29_1.png 200,392,234,434,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z29_10.png 94,169,123,220,0 10,296,30,340,0 82,9,110,133,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z29_11.png 351,353,381,415,0 23,575,83,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z29_12.png 53,236,85,293,0 391,134,432,203,0 422,104,457,191,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z29_14.png 21,99,60,230,0 20,348,50,392,0 3,2,21,37,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z29_2.png 125,266,153,348,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z29_6.png 37,186,73,249,0 330,420,364,478,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z29_7.png 99,170,142,254,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z29_9.png 41,337,75,381,0 227,318,249,361,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_1.png 332,183,377,354,0 291,417,319,487,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_10.png 350,243,381,337,0 435,18,491,151,0 180,481,222,577,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_11.png 91,236,147,308,0 156,386,184,430,0 318,392,377,454,0 320,508,356,556,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_12.png 90,158,116,294,0 79,415,116,459,0 34,550,74,598,0 380,158,426,225,0 454,73,485,123,0 161,19,216,104,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_13.png 29,221,73,242,0 81,50,107,80,0 173,300,220,390,0 236,288,286,380,0 391,298,428,333,0 392,158,427,188,0 20,560,46,600,0 364,433,417,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_14.png 72,352,178,422,0 268,242,365,353,0 394,468,436,505,0 270,558,307,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_2.png 133,38,168,89,0 411,135,438,236,0 406,443,441,571,0 264,506,297,578,0 24,436,66,481,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_3.png 120,245,157,377,0 340,410,366,550,0 486,68,515,201,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_4.png 72,178,102,308,0 217,480,254,538,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_5.png 146,274,210,329,0 210,219,264,305,0 22,135,61,172,0 141,77,168,110,0 259,495,303,563,0 162,545,265,586,0 118,560,158,596,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_6.png 279,93,323,161,0 281,209,311,271,0 106,392,148,478,0 387,512,431,590,0 137,5,174,28,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_7.png 52,94,116,122,0 212,160,250,228,0 379,150,414,205,0 268,293,310,340,0 382,350,438,370,0 35,199,66,256,0 20,376,82,430,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_8.png 54,146,83,216,0 286,226,323,322,0 219,380,261,443,0 375,412,420,520,0 168,469,243,596,0 279,17,320,126,0 394,30,426,59,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z2_9.png 189,63,220,91,0 119,512,163,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z30_11.png 135,215,170,266,0 254,338,283,365,0 143,534,188,580,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z30_12.png 217,209,250,265,0 333,172,358,202,0 406,180,435,248,0 96,369,146,454,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z30_13.png 53,183,84,262,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z30_2.png 411,162,434,213,0 107,316,150,338,0 119,526,150,548,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z30_3.png 107,123,154,236,0 325,413,361,445,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z30_4.png 284,153,299,173,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z30_6.png 145,270,193,319,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z30_7.png 410,405,432,431,0 125,509,166,563,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z30_9.png 102,53,117,83,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_10.png 339,412,391,486,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_12.png 211,186,237,227,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_13.png 205,259,250,371,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_14.png 42,199,65,240,0 226,343,259,396,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_2.png 347,425,398,462,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_5.png 277,226,295,273,0 233,530,270,561,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_6.png 206,76,244,113,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_7.png 95,239,135,313,0 205,342,240,377,0 342,65,406,227,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_8.png 271,385,297,460,0 288,433,305,472,0 351,294,373,339,0 17,1,65,37,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z31_9.png 107,330,152,387,0 393,289,414,324,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_1.png 235,550,266,593,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_10.png 418,584,458,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_11.png 33,43,85,142,0 386,212,435,261,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_12.png 422,182,474,223,0 319,538,367,596,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_13.png 1,285,26,379,0 414,1,455,92,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_14.png 145,163,181,351,0 409,188,460,263,0 54,90,88,151,0 79,21,114,106,0 133,3,162,179,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_3.png 50,563,74,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_4.png 493,110,511,154,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_6.png 360,90,413,168,0 421,333,451,386,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_7.png 373,299,401,315,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_8.png 329,564,383,596,0 423,11,451,116,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z32_9.png 210,349,249,433,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_1.png 81,119,135,171,0 178,8,199,38,0 336,13,355,47,0 336,218,355,246,0 311,254,353,289,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_10.png 6,219,66,358,0 152,410,178,476,0 322,296,345,404,0 308,118,345,250,0 313,524,340,592,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_11.png 37,293,72,338,0 106,242,138,302,0 312,296,343,328,0 440,346,471,426,0 495,291,517,398,0 305,170,359,281,0 172,125,202,202,0 315,38,341,116,0 306,508,344,591,0 300,565,326,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_12.png 277,133,298,190,0 311,93,346,172,0 326,168,375,253,0 415,113,460,226,0 474,256,504,309,0 369,293,402,382,0 352,380,398,453,0 421,430,454,519,0 94,465,141,542,0 117,1,156,107,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_13.png 181,210,203,276,0 81,350,103,376,0 43,491,66,600,0 118,489,141,539,0 256,283,285,382,0 377,461,404,579,0 310,45,347,219,0 395,40,423,105,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_14.png 124,162,165,230,0 2,123,58,214,0 416,35,457,109,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_2.png 7,285,38,386,0 229,430,249,487,0 329,439,359,469,0 334,473,359,491,0 326,537,371,586,0 318,369,376,423,0 339,304,360,336,0 331,208,367,295,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_3.png 331,117,358,233,0 464,115,496,189,0 328,303,357,361,0 333,396,351,430,0 233,461,262,481,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_4.png 332,127,350,157,0 436,274,460,323,0 340,425,351,453,0 246,39,292,56,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_5.png 310,102,359,202,0 287,203,320,222,0 303,261,332,300,0 329,318,354,375,0 295,326,327,355,0 234,388,263,449,0 84,411,103,458,0 318,397,341,515,0 289,495,321,548,0 271,544,307,595,0 335,457,354,508,0 419,486,437,549,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_6.png 273,200,309,266,0 297,222,336,292,0 312,336,338,394,0 288,438,317,482,0 334,449,357,522,0 397,41,428,126,0 497,35,514,259,0 319,9,342,93,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_7.png 118,205,150,254,0 92,67,112,109,0 311,26,356,146,0 397,165,421,193,0 300,283,364,366,0 181,511,207,583,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_8.png 290,237,317,308,0 106,122,128,158,0 116,532,149,581,0 321,362,341,480,0 320,500,367,594,0 467,333,493,395,0 498,406,517,443,0 312,195,346,336,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z33_9.png 236,276,255,322,0 311,355,343,439,0 314,472,342,581,0 91,95,123,202,0 311,62,344,174,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_10.png 40,181,59,216,0 267,535,283,553,0 417,528,476,570,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_11.png 17,92,39,103,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_12.png 276,139,308,180,0 410,253,445,301,0 2,298,35,319,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_2.png 173,339,214,379,0 336,395,388,423,0 337,438,395,476,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_3.png 211,120,258,159,0 250,381,287,427,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_4.png 213,392,260,448,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_6.png 45,385,85,425,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_7.png 285,533,324,575,0 276,556,319,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_8.png 319,438,340,472,0 428,546,452,566,0 48,507,81,545,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z34_9.png 447,405,462,428,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_1.png 104,89,130,145,0 109,150,137,178,0 460,338,476,368,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_10.png 127,252,159,321,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_11.png 171,330,193,407,0 83,43,108,65,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_12.png 240,336,277,376,0 313,403,331,436,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_13.png 28,171,49,189,0 263,343,343,378,0 434,399,454,439,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_2.png 216,220,236,266,0 306,539,327,578,0 211,556,242,600,0 457,334,484,386,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_3.png 126,286,153,315,0 454,83,487,133,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_4.png 242,93,272,202,0 44,356,63,399,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_5.png 494,117,515,156,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_6.png 14,69,39,135,0 369,455,400,498,0 336,583,362,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_7.png 277,133,303,173,0 469,166,488,188,0 452,347,465,379,0 280,372,304,430,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_8.png 271,250,293,293,0 381,419,398,449,0 103,435,131,492,0 1,139,21,209,0 451,3,483,45,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z35_9.png 300,160,333,221,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_1.png 178,213,217,265,0 191,269,211,311,0 118,534,146,576,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_11.png 487,396,516,479,0 484,490,511,520,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_12.png 165,147,197,195,0 147,267,175,332,0 331,414,356,454,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_13.png 287,463,317,497,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_2.png 173,48,220,95,0 175,422,219,480,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_4.png 306,238,328,275,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_5.png 189,94,227,161,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_6.png 199,309,222,346,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_7.png 368,191,398,220,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z36_8.png 398,189,422,242,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z37_14.png 55,271,94,301,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z37_2.png 452,34,484,101,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z37_7.png 186,304,228,336,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_1.png 335,359,371,448,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_10.png 77,370,108,416,0 104,487,140,517,0 237,435,268,504,0 215,5,228,23,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_11.png 201,190,226,211,0 193,240,230,270,0 158,281,223,309,0 39,343,78,388,0 10,452,63,530,0 111,530,134,570,0 201,534,223,574,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_12.png 31,16,81,64,0 130,222,174,256,0 344,372,380,451,0 463,423,501,461,0 134,505,159,537,0 184,523,240,555,0 191,586,230,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_13.png 189,309,229,360,0 169,442,193,484,0 317,300,367,354,0 497,448,513,492,0 364,13,410,73,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_14.png 87,293,142,358,0 400,368,420,391,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_3.png 43,42,70,74,0 311,1,344,47,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_4.png 1,458,29,505,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_5.png 159,435,221,525,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_6.png 192,147,230,190,0 258,176,287,237,0 262,55,314,133,0 314,191,339,353,0 341,549,365,573,0 36,549,78,596,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_7.png 376,77,395,129,0 434,449,454,492,0 275,538,298,573,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_8.png 32,125,84,183,0 1,365,14,429,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z38_9.png 193,173,202,195,0 5,39,65,103,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z39_10.png 93,121,180,138,0 128,469,150,492,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z39_13.png 165,127,224,181,0 6,78,40,105,0 414,472,459,492,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z39_3.png 266,125,320,177,0 348,182,401,202,0 255,435,317,483,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z39_7.png 428,337,452,389,0 366,441,412,461,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z39_8.png 262,212,311,262,0 133,252,183,275,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_1.png 285,143,339,168,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_10.png 480,153,511,255,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_11.png 146,110,175,142,0 61,504,184,582,0 475,439,514,489,0 477,192,510,227,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_12.png 437,227,513,398,0 82,532,137,563,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_13.png 117,177,145,202,0 119,231,157,255,0 118,470,197,506,0 294,530,340,563,0 440,408,506,533,0 470,466,487,486,0 220,191,326,215,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_14.png 480,25,509,65,0 442,504,507,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_15.png 132,44,188,78,0 335,1,377,158,0 469,428,503,527,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_2.png 288,283,349,310,0 448,181,503,332,0 122,3,149,57,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_3.png 92,107,183,213,0 408,35,497,139,0 440,435,514,582,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_4.png 169,179,200,261,0 277,121,347,190,0 356,400,381,453,0 146,559,182,580,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_5.png 98,85,151,120,0 94,428,124,467,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_6.png 104,102,170,169,0 462,548,513,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_7.png 418,244,508,336,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z3_8.png 443,259,478,328,0 445,521,486,596,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_10.png 72,264,154,344,0 103,442,150,513,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_11.png 283,377,316,408,0 282,579,318,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_12.png 190,229,255,265,0 288,295,321,345,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_13.png 140,105,187,145,0 258,438,276,496,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_14.png 288,131,318,190,0 283,380,322,393,0 131,310,164,365,0 457,321,490,365,0 193,1,232,70,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_2.png 293,549,360,577,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_3.png 358,186,404,224,0 142,503,156,525,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_4.png 253,358,276,373,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_7.png 284,343,316,380,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_8.png 142,541,181,576,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z40_9.png 308,32,337,61,0 415,46,461,119,0 133,205,158,236,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_1.png 467,223,495,279,0 38,484,60,527,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_10.png 289,202,337,228,0 484,269,506,318,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_11.png 57,321,92,369,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_12.png 14,362,64,388,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_13.png 134,394,163,477,0 316,586,347,600,0 22,1,86,86,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_14.png 35,104,61,146,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_2.png 220,346,299,394,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_4.png 449,206,487,242,0 82,489,108,517,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_6.png 462,102,511,168,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_7.png 459,374,501,448,0 336,573,378,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z41_9.png 404,239,453,322,0 380,560,396,585,0 16,28,59,153,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z42_13.png 300,292,358,336,0 303,465,358,513,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z42_14.png 310,62,357,135,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z42_3.png 295,58,323,98,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z42_4.png 272,167,291,228,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z42_5.png 395,215,431,268,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z42_6.png 319,324,357,371,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z42_8.png 76,160,108,183,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z42_9.png 272,271,304,308,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_10.png 137,384,172,429,0 108,456,146,492,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_11.png 271,144,306,184,0 274,308,320,339,0 467,340,490,398,0 245,524,265,542,0 1,558,49,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_12.png 281,89,321,120,0 420,175,451,216,0 376,310,415,332,0 301,467,341,549,0 441,526,488,585,0 60,494,107,532,0 86,549,131,589,0 20,375,101,449,0 12,233,45,284,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_13.png 387,199,444,231,0 444,267,484,334,0 439,84,490,154,0 416,29,451,49,0 289,362,352,393,0 383,417,411,436,0 380,456,450,494,0 300,525,338,597,0 137,523,174,553,0 49,425,71,462,0 106,395,132,408,0 86,345,130,386,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_14.png 287,287,321,364,0 497,275,514,295,0 430,99,450,128,0 453,23,490,50,0 116,2,142,23,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_2.png 153,109,171,133,0 487,360,512,401,0 459,47,495,97,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_4.png 295,434,352,508,0 429,78,467,116,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_5.png 54,232,77,268,0 258,206,298,241,0 116,98,169,150,0 151,2,191,45,0 37,534,69,561,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_6.png 276,182,313,230,0 103,76,157,126,0 105,243,149,281,0 285,546,325,581,0 446,540,473,560,0 458,472,488,493,0 499,429,513,450,0 430,379,488,433,0 441,307,470,322,0 488,257,509,309,0 427,235,491,258,0 379,170,417,199,0 488,579,515,600,0 245,589,280,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_7.png 349,343,415,384,0 437,91,461,117,0 430,1,449,20,0 141,542,223,579,0 32,488,70,549,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_8.png 389,311,423,346,0 491,239,512,282,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z43_9.png 278,187,311,221,0 469,506,503,550,0 1,335,28,391,0 247,579,274,597,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z44_1.png 358,217,408,251,0 2,165,16,206,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z44_11.png 311,158,357,205,0 61,74,133,133,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z44_12.png 468,109,506,152,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z44_13.png 18,396,52,428,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z44_14.png 189,370,212,384,0 17,198,56,243,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z44_2.png 123,314,147,342,0 39,72,100,149,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z44_5.png 18,306,60,355,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z44_8.png 176,325,216,338,0 418,546,474,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z45_1.png 268,333,281,355,0 429,328,471,384,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z45_10.png 474,184,499,235,0 430,376,488,472,0 6,173,34,303,0 80,1,144,56,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z45_13.png 111,300,149,328,0 395,463,439,520,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z45_14.png 277,177,295,230,0 433,145,499,289,0 434,12,479,81,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z45_2.png 115,286,142,338,0 351,369,381,413,0 465,379,511,469,0 474,32,508,140,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z45_4.png 451,266,483,320,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z45_6.png 110,94,145,112,0 463,167,510,290,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z45_8.png 444,139,481,246,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z45_9.png 90,379,114,435,0 364,53,388,106,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z46_10.png 457,94,484,156,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z46_11.png 303,108,365,293,0 392,430,436,572,0 434,538,499,570,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z46_12.png 168,1,203,83,0 465,530,484,554,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z46_13.png 350,171,386,189,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z46_4.png 444,33,480,60,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z46_5.png 100,458,206,483,0 426,343,514,372,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z46_6.png 294,458,357,522,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z46_7.png 122,404,173,458,0 430,470,477,516,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_10.png 202,176,250,320,0 360,26,383,76,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_11.png 263,177,286,266,0 33,143,89,153,0 248,8,288,64,0 97,336,163,380,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_12.png 238,358,271,434,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_13.png 84,168,127,243,0 150,259,208,281,0 362,196,466,218,0 93,320,110,359,0 203,338,220,357,0 79,400,118,418,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_3.png 263,147,303,186,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_4.png 454,234,489,266,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_5.png 202,182,267,300,0 368,189,404,222,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_6.png 208,316,272,382,0 477,13,510,49,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_7.png 209,225,299,256,0 10,81,58,180,0 132,336,192,377,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_8.png 433,428,454,477,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z47_9.png 202,193,251,402,0 232,490,271,519,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_1.png 257,383,321,492,0 404,565,461,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_10.png 165,262,215,311,0 268,269,307,365,0 393,276,428,425,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_11.png 312,172,371,196,0 268,41,300,74,0 395,39,466,64,0 431,83,481,244,0 263,236,378,343,0 227,445,314,586,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_12.png 180,100,205,209,0 198,49,226,73,0 225,23,316,242,0 171,323,207,385,0 281,406,342,533,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_13.png 83,67,150,122,0 198,408,272,457,0 367,319,408,551,0 424,452,495,521,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_14.png 443,217,480,340,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_2.png 397,115,462,186,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_3.png 72,91,113,131,0 389,128,434,191,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_4.png 143,540,187,598,0 30,560,83,590,0 419,160,462,241,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_5.png 229,268,299,358,0 262,398,350,505,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_6.png 175,139,208,242,0 83,271,111,338,0 168,287,215,447,0 171,453,213,547,0 174,569,218,600,0 422,193,473,280,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_7.png 173,137,212,199,0 177,252,200,294,0 50,389,120,563,0 165,413,219,466,0 162,535,204,581,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_8.png 161,65,194,104,0 74,233,117,272,0 172,428,195,456,0 166,545,220,585,0 160,19,221,58,0 82,25,121,159,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z48_9.png 87,442,106,472,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z49_1.png 161,382,210,425,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z49_10.png 134,35,163,96,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z49_11.png 49,169,149,207,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z49_12.png 107,182,138,216,0 66,564,88,586,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z49_14.png 223,73,242,132,0 367,72,390,111,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z49_4.png 340,373,355,407,0 257,469,293,558,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z49_6.png 481,286,514,388,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z49_8.png 55,445,83,506,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_1.png 197,155,226,198,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_11.png 255,279,290,321,0 283,492,347,542,0 201,497,223,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_12.png 307,96,333,144,0 100,61,137,108,0 487,443,514,484,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_13.png 233,95,291,153,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_14.png 254,172,296,215,0 305,69,327,106,0 213,446,239,489,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_15.png 101,212,168,323,0 167,219,211,272,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_2.png 435,156,488,370,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_3.png 96,190,141,239,0 145,235,194,294,0 191,290,232,330,0 222,191,257,241,0 442,550,466,576,0 120,520,171,584,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_4.png 125,45,160,81,0 253,154,276,209,0 443,92,480,159,0 399,544,424,593,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_5.png 143,335,171,381,0 503,487,517,556,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_6.png 258,569,351,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_7.png 128,143,164,216,0 111,312,139,387,0 256,345,293,433,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z4_8.png 124,96,164,196,0 120,219,170,313,0 133,461,164,503,0 179,506,229,579,0 375,10,450,32,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_1.png 213,497,262,561,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_10.png 351,175,371,204,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_11.png 128,218,161,313,0 9,405,74,537,0 433,293,480,345,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_12.png 3,276,28,294,0 7,311,24,324,0 14,353,26,364,0 342,539,394,600,0 390,56,460,208,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_13.png 354,319,379,445,0 213,370,260,410,0 217,443,253,468,0 145,536,174,595,0 201,574,261,600,0 414,565,492,600,0 7,209,22,236,0 7,183,20,198,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_14.png 282,285,303,347,0 389,349,447,366,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_2.png 124,484,160,518,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_3.png 428,158,477,251,0 427,437,488,483,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_4.png 133,376,173,460,0 386,132,453,187,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_5.png 280,375,334,414,0 191,412,229,494,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_6.png 8,180,75,366,0 119,198,156,246,0 147,80,170,106,0 162,365,228,432,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_7.png 138,91,186,189,0 158,309,235,488,0 433,175,498,223,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_8.png 369,492,430,510,0 403,530,448,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z50_9.png 76,125,108,160,0 130,325,156,357,0 4,549,23,585,0 435,559,477,600,0 418,108,437,136,0 428,30,493,100,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_10.png 53,234,93,291,0 58,362,93,424,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_11.png 180,117,215,151,0 164,433,187,462,0 237,565,280,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_12.png 82,449,116,526,0 191,531,237,569,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_13.png 286,39,306,119,0 393,566,418,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_2.png 257,299,295,378,0 405,395,463,442,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_3.png 162,435,196,470,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_5.png 382,412,417,499,0 226,410,245,451,0 499,152,513,199,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_6.png 201,330,254,360,0 230,336,249,356,0 42,319,72,342,0 36,58,68,104,0 13,440,51,489,0 161,582,186,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_7.png 150,263,203,280,0 98,210,128,252,0 184,137,217,180,0 7,69,95,89,0 235,352,287,396,0 11,425,43,448,0 1,455,47,489,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_8.png 197,351,241,466,0 266,426,293,462,0 258,133,302,158,0 1,38,21,100,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z51_9.png 104,313,135,399,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_1.png 250,230,276,257,0 371,390,393,409,0 414,478,460,501,0 414,62,463,78,0 418,119,488,144,0 155,424,180,478,0 228,509,265,558,0 150,513,185,575,0 69,482,129,568,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_10.png 121,192,178,262,0 310,205,326,241,0 133,457,193,488,0 1,203,38,239,0 345,32,399,70,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_11.png 224,217,254,252,0 287,382,321,433,0 154,392,222,552,0 78,424,111,453,0 6,147,67,286,0 270,25,302,92,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_12.png 305,143,342,218,0 156,61,188,100,0 133,350,170,410,0 10,505,43,572,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_13.png 290,194,311,238,0 381,370,404,411,0 394,411,446,431,0 447,99,478,132,0 338,499,367,579,0 364,552,391,566,0 391,568,416,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_14.png 207,153,222,241,0 258,336,292,372,0 414,148,456,185,0 324,2,353,64,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_2.png 154,162,177,216,0 291,393,318,446,0 370,319,414,362,0 362,36,405,85,0 25,14,41,87,0 71,570,90,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_3.png 5,333,36,386,0 458,556,487,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_4.png 113,232,168,248,0 61,471,105,546,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_5.png 135,227,181,261,0 60,323,103,341,0 113,335,146,369,0 57,408,217,478,0 124,508,167,543,0 112,552,147,575,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_6.png 74,346,100,424,0 119,423,154,450,0 153,373,177,598,0 277,412,329,488,0 459,542,476,588,0 129,30,167,47,0 117,59,164,112,0 107,1,124,16,0 20,148,56,174,0 39,538,76,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_7.png 230,329,250,432,0 288,99,310,125,0 162,533,209,575,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_8.png 256,62,287,104,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z52_9.png 153,125,179,163,0 81,8,107,78,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z53_10.png 136,281,170,333,0 321,436,348,470,0 74,40,136,79,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z53_11.png 322,172,375,204,0 163,20,236,121,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z53_13.png 340,403,376,476,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z53_14.png 130,252,153,281,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z53_5.png 360,185,411,225,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z53_6.png 475,190,516,228,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z53_7.png 128,233,174,260,0 394,268,444,313,0 361,570,433,596,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z53_9.png 314,163,352,200,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z54_10.png 137,285,168,331,0 324,433,347,469,0 75,48,138,86,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z54_11.png 321,173,378,204,0 163,19,238,129,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z54_13.png 343,405,375,475,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z54_14.png 132,256,153,283,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z54_5.png 355,189,410,226,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z54_6.png 475,187,514,228,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z54_7.png 129,233,169,256,0 390,269,439,317,0 359,566,434,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z54_9.png 318,166,351,196,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z55_11.png 412,46,441,86,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z55_12.png 453,121,487,196,0 297,460,318,509,0 191,506,211,529,0 60,402,136,577,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z55_13.png 310,276,356,325,0 181,413,222,488,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z55_14.png 175,203,204,243,0 97,49,191,70,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z55_6.png 355,301,393,325,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z55_7.png 127,293,169,343,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_1.png 460,402,502,472,0 1,432,56,477,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_10.png 224,226,294,297,0 389,288,462,326,0 471,221,508,292,0 408,68,434,130,0 224,74,270,105,0 253,423,299,510,0 400,375,455,402,0 68,411,95,503,0 26,452,63,507,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_11.png 285,298,326,366,0 344,272,384,363,0 485,318,512,506,0 297,438,321,484,0 41,483,80,557,0 182,1,235,55,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_12.png 180,309,224,421,0 280,29,308,129,0 430,557,459,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_13.png 157,115,185,147,0 119,160,149,204,0 81,324,131,360,0 139,496,166,565,0 482,332,518,457,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_14.png 66,331,95,389,0 241,355,281,389,0 1,121,21,145,0 1,84,25,99,0 507,120,518,140,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_2.png 241,302,282,354,0 140,427,160,473,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_3.png 236,549,285,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_4.png 349,187,380,250,0 76,201,114,271,0 120,564,150,598,0 480,566,509,597,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_5.png 377,80,431,187,0 469,390,510,478,0 341,528,388,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_6.png 226,205,245,246,0 84,519,119,550,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_7.png 230,114,251,152,0 303,96,335,130,0 252,393,284,424,0 202,527,221,545,0 74,515,109,600,0 1,11,16,61,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_8.png 177,188,223,224,0 489,558,515,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z56_9.png 119,244,157,295,0 89,395,112,434,0 110,513,155,600,0 230,570,283,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_1.png 38,314,91,404,0 112,314,148,383,0 104,419,157,472,0 443,177,501,209,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_10.png 5,191,39,272,0 98,288,137,418,0 176,391,222,428,0 354,410,411,468,0 274,156,320,240,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_11.png 446,44,504,226,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_12.png 1,361,32,438,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_13.png 290,181,345,241,0 137,581,177,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_2.png 98,514,171,598,0 191,90,218,119,0 95,1,151,36,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_3.png 387,161,430,223,0 458,519,501,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_4.png 95,144,141,307,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_5.png 116,148,150,257,0 200,356,232,418,0 329,300,405,337,0 425,204,479,264,0 491,73,514,117,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_6.png 47,124,91,167,0 106,164,154,213,0 99,243,164,275,0 60,404,135,490,0 94,578,152,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_7.png 80,76,175,141,0 141,247,186,297,0 58,362,135,483,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_8.png 1,268,31,297,0 206,342,238,392,0 140,60,182,115,0 199,41,243,94,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z57_9.png 34,425,73,508,0 416,96,465,156,0 196,12,249,61,0 43,6,84,124,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z58_10.png 352,108,410,136,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z58_7.png 342,104,414,141,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_1.png 161,148,200,182,0 166,255,207,293,0 472,446,492,469,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_11.png 418,399,480,445,0 406,581,449,600,0 1,132,19,195,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_12.png 1,470,18,509,0 310,477,341,550,0 504,478,519,490,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_13.png 308,308,372,398,0 321,573,358,600,0 472,158,507,196,0 383,45,418,86,0 268,87,289,117,0 1,21,23,64,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_14.png 387,365,443,386,0 264,1,296,29,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_2.png 329,161,440,234,0 325,393,355,438,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_5.png 189,146,228,184,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_6.png 435,545,490,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_7.png 466,552,502,590,0 443,3,497,43,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_8.png 167,197,192,251,0 304,520,336,570,0 459,79,505,109,0 500,227,518,248,0 1,233,13,278,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z59_9.png 93,150,160,173,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_1.png 363,322,422,445,0 201,477,236,518,0 411,539,442,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_10.png 163,80,201,212,0 237,117,257,142,0 85,338,130,570,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_11.png 64,137,123,295,0 237,109,273,310,0 438,88,488,178,0 20,262,41,398,0 54,488,76,502,0 51,583,70,600,0 471,532,504,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_12.png 136,416,200,466,0 458,310,489,347,0 473,392,508,594,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_13.png 319,176,351,431,0 417,394,475,453,0 391,526,428,549,0 238,2,266,83,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_14.png 101,114,153,208,0 396,83,458,127,0 42,488,133,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_15.png 307,83,351,138,0 103,329,144,396,0 46,382,72,402,0 412,436,442,475,0 386,465,421,491,0 481,317,500,596,0 404,1,447,203,0 382,551,408,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_2.png 93,14,129,159,0 228,26,264,96,0 418,79,453,285,0 89,359,169,545,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_3.png 127,13,157,97,0 177,83,243,220,0 194,294,237,373,0 400,423,456,468,0 469,85,499,126,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_4.png 201,48,248,201,0 314,12,356,111,0 416,184,477,224,0 473,44,511,213,0 417,550,449,572,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_5.png 156,324,194,459,0 231,48,288,130,0 247,191,311,243,0 423,99,470,143,0 435,422,489,478,0 378,493,510,573,0 380,511,423,594,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_6.png 404,453,449,490,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_7.png 155,238,189,347,0 422,428,467,468,0 452,199,510,407,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_8.png 86,50,132,345,0 235,379,325,582,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z5_9.png 153,117,201,265,0 218,560,258,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z60_1.png 57,105,116,164,0 351,548,403,589,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z60_11.png 415,58,442,101,0 93,2,129,35,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z60_12.png 51,481,141,546,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z60_13.png 472,61,493,89,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z60_14.png 73,130,159,196,0 277,59,302,93,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z60_2.png 183,284,231,320,0 379,490,405,546,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z60_4.png 99,102,150,174,0 12,129,78,192,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z60_9.png 352,266,395,314,0 467,368,490,398,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z61_1.png 55,101,115,164,0 349,549,406,590,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z61_11.png 95,1,126,32,0 412,57,443,98,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z61_12.png 50,480,138,548,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z61_13.png 472,64,498,86,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z61_14.png 79,128,160,193,0 281,57,301,93,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z61_2.png 183,280,232,322,0 380,488,403,545,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z61_4.png 12,129,75,190,0 91,104,161,182,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z61_9.png 349,267,397,312,0 469,371,488,393,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z62_10.png 491,365,521,514,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z62_11.png 103,404,188,440,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z62_12.png 173,492,216,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z62_3.png 31,102,52,135,0 395,524,444,551,0 456,362,507,568,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z62_4.png 223,150,281,206,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z62_5.png 201,442,247,482,0 141,1,194,67,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z62_7.png 62,267,156,321,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z62_9.png 80,219,107,266,0 265,364,292,398,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z63_1.png 25,223,71,312,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z63_2.png 295,367,354,461,0 460,466,490,545,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z63_3.png 88,143,115,198,0 407,225,440,341,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z63_5.png 80,148,134,255,0 311,79,351,144,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z63_6.png 102,149,125,202,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z63_7.png 437,88,457,139,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z63_9.png 189,272,225,317,0 298,248,324,288,0 173,73,210,152,0 46,82,77,132,0 38,140,53,181,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z64_1.png 112,156,154,279,0 276,455,310,522,0 425,314,461,342,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z64_2.png 346,439,369,468,0 399,374,430,415,0 433,399,447,418,0 433,447,511,549,0 325,578,385,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z64_3.png 58,311,133,532,0 71,542,145,563,0 460,248,474,283,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z64_4.png 390,438,425,478,0 83,1,97,16,0 1,16,13,41,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z64_5.png 396,267,430,321,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z64_7.png 150,250,222,334,0 147,556,175,582,0 487,58,518,74,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z64_8.png 55,554,96,590,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z64_9.png 97,258,132,296,0 416,162,449,186,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z65_1.png 174,436,203,480,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z65_2.png 261,441,293,504,0 181,519,215,547,0 381,431,433,482,0 426,309,466,373,0 134,1,190,70,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z65_4.png 271,189,302,240,0 394,227,440,295,0 427,142,465,215,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z65_5.png 131,140,156,159,0 278,399,300,429,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z65_6.png 312,389,341,417,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z65_7.png 290,162,318,220,0 434,294,458,346,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z65_8.png 368,328,437,421,0 388,405,449,443,0 362,454,499,483,0 413,558,457,600,0 271,44,305,74,0 261,1,307,27,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z66_1.png 283,468,321,516,0 285,550,321,592,0 266,36,309,118,0 129,30,184,95,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z66_2.png 240,104,263,139,0 160,236,198,262,0 166,416,195,509,0 307,324,371,481,0 356,152,382,204,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z66_3.png 200,453,230,474,0 202,482,221,519,0 359,66,417,182,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z66_4.png 371,225,432,302,0 450,498,485,574,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z66_5.png 115,268,153,320,0 391,202,453,325,0 412,499,477,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z66_6.png 367,286,396,345,0 362,381,397,471,0 216,471,250,535,0 113,553,156,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z66_7.png 135,334,183,435,0 330,410,363,443,0 476,295,513,380,0 397,1,416,48,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z66_8.png 269,433,322,482,0 360,462,400,493,0 497,21,516,59,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z66_9.png 94,175,129,230,0 362,244,399,258,0 381,218,412,243,0 355,136,409,197,0 374,59,395,92,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z67_2.png 175,245,211,275,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z67_3.png 157,284,208,362,0 386,372,412,434,0 402,58,427,73,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z67_6.png 143,261,236,319,0 175,323,220,358,0 200,369,249,413,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z67_7.png 1,180,66,230,0 497,193,519,205,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z67_8.png 63,538,78,556,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z67_9.png 13,86,69,111,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z68_1.png 163,37,190,110,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z68_5.png 123,523,149,564,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z68_6.png 407,440,435,530,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z68_7.png 469,112,495,172,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z68_8.png 9,385,37,415,0 345,526,381,591,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z68_9.png 193,214,211,241,0 46,237,71,265,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z69_1.png 215,403,254,458,0 223,494,256,522,0 16,455,42,511,0 310,25,348,89,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z69_2.png 228,84,252,133,0 12,42,56,82,0 227,509,252,555,0 316,549,338,599,0 101,529,143,578,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z69_3.png 222,295,250,377,0 133,355,156,425,0 98,447,130,533,0 24,535,52,563,0 450,517,482,561,0 213,2,250,75,0 480,46,510,95,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z69_4.png 28,200,54,237,0 38,286,85,358,0 227,334,252,380,0 475,142,508,174,0 229,7,250,75,0 22,486,49,516,0 20,556,53,576,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z69_5.png 26,346,56,364,0 25,374,50,393,0 124,399,163,457,0 13,120,61,144,0 29,9,49,30,0 227,7,250,56,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z69_6.png 22,300,49,323,0 11,431,49,503,0 15,509,59,536,0 409,96,432,146,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z69_7.png 29,287,56,311,0 275,327,297,383,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z69_8.png 412,104,453,161,0 481,81,511,109,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z69_9.png 53,174,81,271,0 27,273,52,306,0 250,224,271,278,0 419,170,450,220,0 152,8,171,50,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_1.png 209,221,236,281,0 484,96,501,215,0 73,482,99,525,0 76,554,121,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_10.png 52,152,91,188,0 294,269,321,355,0 408,387,451,443,0 351,429,373,531,0 406,459,471,530,0 270,480,331,535,0 19,462,44,578,0 53,545,76,560,0 97,439,127,572,0 97,488,122,570,0 399,39,460,138,0 480,36,506,260,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_11.png 110,243,138,272,0 271,200,294,238,0 415,224,459,281,0 484,188,508,254,0 473,284,500,343,0 160,434,192,490,0 62,305,91,516,0 63,102,93,142,0 87,66,119,132,0 104,1,124,38,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_12.png 189,249,210,272,0 93,196,113,263,0 147,126,162,187,0 74,63,96,81,0 3,1,21,69,0 433,115,457,275,0 1,445,40,597,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_13.png 99,40,118,137,0 303,358,322,433,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_14.png 102,51,133,130,0 55,48,82,268,0 118,206,147,220,0 107,245,160,276,0 166,271,194,307,0 118,412,150,474,0 98,566,137,595,0 16,339,37,408,0 297,530,318,554,0 367,193,465,237,0 410,180,444,394,0 212,1,253,123,0 409,506,435,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_15.png 155,114,181,173,0 44,26,96,149,0 141,2,166,40,0 291,18,310,55,0 278,112,338,207,0 364,238,475,324,0 288,335,337,502,0 59,395,89,419,0 91,465,108,505,0 58,523,93,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_2.png 62,123,90,166,0 73,166,91,184,0 143,42,167,61,0 285,3,335,93,0 191,222,214,311,0 65,442,90,489,0 13,498,47,589,0 43,537,88,600,0 201,512,227,595,0 185,577,214,600,0 267,451,327,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_3.png 234,120,257,182,0 165,357,188,393,0 75,334,97,465,0 32,179,70,233,0 61,536,102,597,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_4.png 87,189,111,245,0 282,80,307,204,0 61,8,89,40,0 80,264,103,298,0 454,344,476,386,0 380,561,406,597,0 43,535,91,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_5.png 175,208,205,349,0 258,119,276,170,0 48,46,90,127,0 70,448,86,486,0 231,443,266,532,0 407,243,437,436,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_6.png 90,3,119,91,0 215,206,254,286,0 317,313,356,591,0 61,240,103,344,0 30,403,51,508,0 73,464,99,576,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_7.png 105,268,139,521,0 171,476,206,589,0 5,459,33,580,0 74,503,97,594,0 83,524,121,595,0 199,324,238,412,0 430,327,455,399,0 430,145,463,206,0 426,1,463,78,0 432,585,452,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z6_8.png 136,39,157,160,0 318,148,356,267,0 433,279,453,349,0 430,353,450,399,0 481,363,509,400,0 482,422,508,447,0 257,267,281,358,0 191,347,214,399,0 106,473,131,493,0 314,406,346,533,0 378,531,398,563,0 228,500,263,571,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z70_1.png 149,139,183,183,0 73,244,106,296,0 180,298,201,333,0 272,312,308,332,0 365,300,402,345,0 365,201,394,231,0 283,213,314,239,0 437,148,461,171,0 90,450,122,479,0 33,475,80,507,0 118,501,165,523,0 41,523,90,550,0 423,546,446,575,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z70_2.png 167,292,199,330,0 88,384,119,409,0 8,425,83,461,0 17,333,75,374,0 76,271,101,327,0 10,224,55,249,0 16,190,79,234,0 72,114,106,167,0 17,51,70,99,0 191,40,224,102,0 372,125,397,148,0 443,152,485,176,0 484,79,516,125,0 462,8,506,60,0 420,352,447,399,0 478,367,509,387,0 455,424,513,463,0 490,496,511,543,0 457,565,513,600,0 41,525,65,549,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z70_3.png 39,222,66,263,0 150,306,168,352,0 356,509,401,579,0 191,582,226,600,0 416,458,479,486,0 398,396,422,428,0 372,309,397,337,0 299,233,329,263,0 381,180,439,218,0 478,190,512,220,0 421,263,447,316,0 458,242,513,299,0 460,311,507,353,0 443,40,468,56,0 366,2,397,36,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z70_4.png 180,250,228,309,0 199,318,237,358,0 74,280,103,336,0 24,282,65,343,0 29,392,59,416,0 147,412,172,445,0 11,511,37,545,0 145,503,173,552,0 358,483,406,540,0 335,426,383,451,0 410,432,438,453,0 319,329,369,353,0 309,205,390,252,0 196,178,233,229,0 211,124,306,166,0 150,90,170,127,0 199,50,237,92,0 274,3,300,24,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z70_5.png 28,222,66,292,0 66,145,85,177,0 168,111,205,189,0 196,197,240,250,0 162,55,191,80,0 265,82,299,104,0 317,125,415,178,0 438,127,464,167,0 460,80,506,163,0 387,247,405,263,0 340,199,416,236,0 358,281,404,314,0 409,317,452,349,0 492,309,515,353,0 498,349,515,371,0 488,395,512,434,0 396,361,446,441,0 356,434,399,488,0 455,478,505,541,0 465,545,502,593,0 287,511,363,546,0 3,374,33,402,0 3,517,27,541,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z70_6.png 180,220,225,288,0 161,338,201,409,0 90,465,124,505,0 5,428,24,456,0 18,231,72,261,0 30,151,65,287,0 167,113,204,164,0 318,180,368,199,0 341,293,377,319,0 330,401,386,440,0 458,400,503,465,0 493,474,514,534,0 456,565,512,600,0 487,178,515,231,0 459,78,510,150,0 423,43,451,77,0 304,15,438,60,0 488,5,515,40,0 238,28,275,58,0 75,5,115,30,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z70_7.png 1,89,42,133,0 26,156,59,185,0 17,200,76,307,0 27,269,103,320,0 182,221,225,280,0 251,205,275,240,0 287,98,314,128,0 345,350,410,396,0 414,338,437,375,0 465,265,498,327,0 474,309,513,330,0 461,373,509,420,0 349,431,409,492,0 458,528,512,600,0 437,561,468,593,0 327,519,354,545,0 4,484,74,535,0 2,546,76,577,0 366,3,396,35,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z70_8.png 15,59,65,106,0 25,292,44,341,0 75,478,100,522,0 183,486,226,543,0 173,396,231,459,0 195,264,235,317,0 356,314,399,352,0 455,310,510,346,0 382,413,433,436,0 358,477,404,541,0 328,548,374,577,0 444,568,483,583,0 466,522,488,569,0 449,515,478,527,0 489,506,510,531,0 490,64,513,115,0 398,265,424,295,0 423,274,447,311,0 324,212,373,252,0 318,154,372,191,0 296,60,331,81,0 182,5,227,70,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z70_9.png 182,276,224,315,0 337,307,419,328,0 159,138,205,187,0 161,210,212,231,0 359,114,418,142,0 492,69,517,92,0 422,48,450,71,0 497,55,513,68,0 484,16,515,53,0 392,1,454,33,0 187,23,246,78,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z71_1.png 77,218,103,261,0 28,253,73,315,0 36,340,72,368,0 26,406,73,450,0 25,467,75,559,0 94,532,152,592,0 176,573,196,600,0 186,491,228,559,0 130,391,163,421,0 1,133,21,186,0 50,77,102,102,0 184,49,227,118,0 333,134,368,177,0 361,146,399,209,0 341,175,419,198,0 349,223,392,261,0 400,218,423,266,0 491,205,518,252,0 454,235,510,292,0 461,321,519,354,0 454,59,503,109,0 394,30,423,58,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z71_2.png 184,305,233,358,0 136,359,205,417,0 220,356,273,399,0 178,440,239,489,0 17,281,63,348,0 366,380,396,408,0 409,393,438,424,0 412,313,440,338,0 409,244,440,264,0 406,141,441,162,0 232,128,251,150,0 195,89,234,143,0 234,67,259,97,0 150,42,177,83,0 1,12,24,73,0 4,518,57,545,0 27,555,91,583,0 170,535,200,559,0 322,578,370,600,0 388,516,411,536,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z71_3.png 32,264,65,321,0 80,274,103,340,0 37,357,72,380,0 32,393,78,417,0 33,430,66,498,0 76,523,102,567,0 180,582,239,600,0 271,501,305,532,0 422,496,448,526,0 459,476,505,545,0 487,554,512,600,0 417,555,450,592,0 363,322,397,351,0 490,312,510,378,0 404,139,438,166,0 410,43,433,73,0 74,9,105,96,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z71_4.png 12,173,78,274,0 44,40,80,84,0 163,146,206,183,0 304,83,333,152,0 377,32,416,71,0 417,86,449,115,0 488,88,515,127,0 487,173,512,209,0 367,211,440,273,0 354,261,415,299,0 417,318,453,367,0 335,371,368,414,0 410,439,435,462,0 423,533,446,571,0 395,575,421,594,0 318,580,343,598,0 55,575,73,600,0 32,499,61,524,0 26,437,63,474,0 72,380,102,470,0 25,372,80,409,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z71_5.png 153,264,174,302,0 300,319,328,355,0 294,397,328,424,0 359,414,406,489,0 325,502,366,543,0 406,536,436,555,0 302,489,326,515,0 195,468,242,523,0 107,480,144,512,0 77,566,105,600,0 69,414,105,463,0 67,334,107,389,0 27,284,71,330,0 91,207,118,234,0 46,126,91,181,0 69,108,115,151,0 369,55,396,77,0 411,189,439,214,0 412,287,436,309,0 462,277,508,336,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z71_6.png 25,200,74,250,0 8,205,52,268,0 34,314,65,364,0 27,477,69,508,0 1,518,10,553,0 25,540,69,561,0 23,569,66,600,0 447,520,481,556,0 326,368,373,409,0 237,271,277,319,0 146,179,176,241,0 302,225,340,243,0 425,239,446,271,0 487,217,518,284,0 312,26,347,64,0 331,19,386,65,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z71_7.png 34,374,68,455,0 92,482,138,515,0 230,415,265,459,0 311,406,348,430,0 380,422,406,459,0 383,410,470,506,0 490,492,519,530,0 480,355,520,386,0 457,270,508,317,0 488,201,515,267,0 82,214,114,252,0 35,70,84,98,0 164,152,207,193,0 202,125,237,175,0 301,95,333,119,0 308,107,440,179,0 490,92,509,137,0 407,26,427,93,0 301,8,340,54,0 345,130,359,183,0 359,152,379,166,0 423,587,449,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z71_8.png 8,361,48,430,0 147,396,174,435,0 292,410,340,437,0 362,518,399,561,0 423,367,447,415,0 324,317,416,355,0 228,232,275,302,0 284,211,340,240,0 31,154,58,190,0 101,180,118,206,0 118,102,159,136,0 92,8,122,52,0 253,111,295,149,0 478,1,512,60,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z71_9.png 52,207,83,261,0 190,264,231,312,0 232,234,262,268,0 277,166,306,211,0 363,255,402,288,0 459,267,506,316,0 421,186,450,214,0 343,18,425,72,0 233,14,261,52,0 26,80,74,110,0 2,110,34,155,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z72_1.png 64,393,91,432,0 148,566,181,600,0 243,561,278,593,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z72_2.png 234,335,285,386,0 148,52,171,98,0 244,38,277,68,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z72_3.png 55,251,86,279,0 161,349,206,402,0 241,383,287,412,0 9,453,65,537,0 232,240,256,258,0 236,298,286,337,0 244,193,281,245,0 417,94,460,167,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z72_4.png 152,341,172,372,0 147,419,177,436,0 140,480,171,494,0 238,452,283,494,0 29,118,70,145,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z72_5.png 158,212,193,247,0 311,201,360,309,0 238,106,280,145,0 143,28,169,130,0 134,15,193,55,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z72_7.png 49,401,86,431,0 244,413,285,452,0 242,143,285,175,0 245,79,284,110,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z72_8.png 245,262,275,296,0 236,402,281,433,0 243,527,281,566,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z73_1.png 197,240,222,263,0 201,267,242,311,0 205,320,247,339,0 234,441,282,471,0 4,439,64,537,0 410,277,496,431,0 488,163,512,205,0 349,41,396,67,0 238,88,285,125,0 134,95,213,139,0 31,42,84,92,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z73_2.png 178,221,201,319,0 241,489,281,536,0 240,547,284,590,0 426,585,456,599,0 408,90,469,167,0 240,89,287,153,0 246,24,278,63,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z73_3.png 243,545,284,578,0 349,543,385,585,0 387,118,429,151,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z73_4.png 240,248,285,302,0 256,114,296,148,0 200,297,235,329,0 432,517,488,595,0 243,574,282,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z73_5.png 245,214,279,259,0 21,477,47,528,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z73_7.png 263,77,293,138,0 334,83,350,116,0 40,73,65,126,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z73_8.png 19,248,52,274,0 220,569,245,599,0 290,580,337,600,0 333,528,375,570,0 453,301,475,342,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z73_9.png 246,158,280,188,0 259,222,303,258,0 224,275,247,313,0 247,5,278,33,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z74_1.png 448,159,480,203,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z74_3.png 379,75,409,148,0 259,531,300,580,0 1,20,46,87,0 500,359,519,374,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z74_4.png 1,159,46,252,0 193,62,234,109,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z74_5.png 316,50,371,181,0 338,156,365,173,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z74_6.png 108,245,167,327,0 4,245,34,290,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z74_7.png 280,461,372,593,0 371,486,453,543,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z74_8.png 281,280,321,325,0 380,523,455,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z74_9.png 140,193,170,221,0 105,248,138,285,0 238,240,314,297,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z75_1.png 150,83,180,106,0 416,256,441,286,0 460,256,490,272,0 462,281,493,306,0 419,353,441,412,0 456,445,494,599,0 133,425,161,453,0 150,549,174,573,0 152,581,177,600,0 416,22,440,50,0 429,6,457,27,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z75_2.png 322,120,355,146,0 460,95,491,153,0 461,228,487,305,0 464,414,491,438,0 465,450,491,471,0 416,560,448,600,0 213,375,229,414,0 229,286,252,434,0 144,36,173,63,0 144,70,181,85,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z75_3.png 296,153,316,193,0 222,251,250,311,0 227,586,253,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z75_4.png 406,250,428,309,0 463,179,486,252,0 466,277,490,339,0 459,362,494,387,0 400,502,439,600,0 221,557,260,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z75_5.png 363,344,396,416,0 466,383,490,421,0 464,200,491,278,0 418,146,442,201,0 449,25,471,104,0 1,47,31,68,0 194,541,230,591,0 411,1,424,31,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z75_6.png 152,9,174,36,0 215,50,247,142,0 415,140,448,169,0 464,33,489,159,0 355,469,389,538,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z75_7.png 87,422,111,525,0 206,550,230,600,0 469,475,495,512,0 421,374,444,413,0 453,309,475,396,0 415,314,442,365,0 464,288,486,366,0 122,23,147,95,0 221,1,255,103,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z75_8.png 147,128,176,184,0 418,170,444,214,0 464,155,489,216,0 463,248,495,269,0 463,359,487,416,0 435,21,457,56,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z75_9.png 120,275,152,317,0 419,129,445,179,0 431,164,452,191,0 88,26,113,97,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z76_1.png 277,309,320,334,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z76_2.png 10,298,147,483,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z76_4.png 308,418,354,536,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z76_5.png 494,474,513,529,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z76_8.png 333,462,440,571,0 488,168,510,211,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z76_9.png 288,69,315,105,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z77_1.png 310,78,356,116,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z77_2.png 51,2,141,180,0 419,71,462,138,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z77_3.png 210,544,340,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z77_7.png 217,348,340,598,0 52,515,153,600,0 187,1,263,43,0 384,27,433,102,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z77_8.png 242,118,278,164,0 238,505,265,534,0 52,481,113,594,0 272,1,293,50,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z77_9.png 182,215,233,265,0 432,232,461,271,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_10.png 432,145,452,348,0 371,52,412,78,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_11.png 187,428,232,527,0 455,294,471,443,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_12.png 275,168,311,193,0 5,53,43,108,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_13.png 243,145,281,242,0 1,72,81,136,0 500,86,516,99,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_14.png 58,12,99,65,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_2.png 22,377,45,437,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_3.png 318,180,385,203,0 201,501,232,558,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_4.png 342,70,412,161,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_5.png 201,63,272,168,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_6.png 354,225,372,256,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_8.png 390,246,474,304,0 45,372,109,429,0 177,470,224,524,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z78_9.png 371,377,394,407,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_1.png 162,39,207,89,0 413,434,455,475,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_10.png 70,74,125,105,0 432,558,475,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_11.png 1,256,42,307,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_12.png 128,293,156,330,0 10,407,76,452,0 47,562,80,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_13.png 109,119,139,164,0 9,50,64,114,0 43,476,80,516,0 444,563,475,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_14.png 193,328,227,378,0 266,239,306,284,0 428,187,474,245,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_2.png 49,82,70,112,0 14,349,65,420,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_3.png 227,498,272,550,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_5.png 439,25,479,80,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_6.png 65,227,94,278,0 149,409,166,461,0 239,581,328,600,0 443,180,481,215,0 358,61,385,101,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_7.png 255,546,274,583,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_8.png 166,189,188,246,0 334,299,369,372,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z79_9.png 4,211,27,256,0 31,270,39,295,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_1.png 69,380,118,448,0 70,486,127,547,0 207,527,242,595,0 341,152,404,353,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_10.png 304,428,337,553,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_11.png 302,86,337,165,0 110,300,127,359,0 334,395,368,537,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_12.png 181,347,283,403,0 46,370,73,447,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_13.png 276,34,325,159,0 1,291,28,328,0 240,459,266,505,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_14.png 192,218,242,293,0 237,321,282,345,0 318,404,388,595,0 176,7,293,48,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_15.png 210,65,237,136,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_2.png 86,26,118,71,0 173,298,193,346,0 2,494,30,569,0 318,558,341,599,0 256,8,315,86,0 81,4,100,20,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_3.png 41,27,71,70,0 320,168,370,328,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_4.png 91,459,141,532,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_5.png 228,515,253,551,0 310,526,343,579,0 213,588,249,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_6.png 357,203,375,348,0 434,79,459,153,0 287,480,337,552,0 59,539,101,597,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z7_8.png 76,104,108,148,0 210,51,237,153,0 356,311,386,498,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z80_1.png 152,454,268,480,0 469,111,508,195,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z80_10.png 48,398,80,481,0 46,102,99,144,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z80_13.png 404,413,427,428,0 405,440,430,461,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z80_14.png 406,274,429,289,0 401,351,434,372,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z80_2.png 162,389,224,441,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z80_3.png 299,430,358,464,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z80_5.png 19,260,48,299,0 330,533,365,566,0 303,10,328,31,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z80_7.png 50,175,101,234,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z81_11.png 451,346,509,430,0 153,423,182,451,0 428,84,513,148,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z81_12.png 453,295,508,384,0 394,114,461,156,0 471,87,492,106,0 479,34,491,49,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z81_14.png 426,258,462,302,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z81_6.png 13,269,66,306,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z81_7.png 404,428,449,459,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z81_9.png 349,371,391,411,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_10.png 100,257,131,310,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_11.png 93,324,137,366,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_12.png 155,377,176,409,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_13.png 366,387,463,509,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_14.png 167,174,211,195,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_2.png 231,51,280,86,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_4.png 233,143,290,237,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_5.png 104,270,135,334,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_6.png 103,218,157,261,0 227,286,295,379,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_8.png 225,408,268,428,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z82_9.png 241,243,285,268,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_1.png 471,178,509,255,0 468,434,505,477,0 502,577,514,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_10.png 270,431,314,493,0 381,374,416,411,0 104,548,136,587,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_11.png 193,143,216,170,0 381,196,401,224,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_12.png 115,127,147,189,0 380,486,410,509,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_13.png 244,335,287,409,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_14.png 33,165,72,220,0 17,12,44,31,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_2.png 195,81,221,125,0 179,133,236,217,0 463,314,497,356,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_3.png 42,206,74,250,0 35,446,66,502,0 329,532,354,567,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_4.png 393,208,419,246,0 469,425,509,474,0 290,467,321,580,0 41,573,127,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_5.png 217,371,246,455,0 233,484,265,531,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_6.png 184,250,221,296,0 341,496,393,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_7.png 266,134,320,212,0 303,39,347,92,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_8.png 240,227,296,353,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z83_9.png 56,181,117,286,0 211,455,243,520,0 7,468,35,548,0 447,500,484,566,0 225,15,285,70,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_11.png 212,362,260,473,0 204,4,249,36,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_12.png 136,58,178,92,0 143,510,180,549,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_13.png 216,435,241,453,0 96,106,166,171,0 30,30,69,64,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_14.png 249,124,299,150,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_2.png 171,360,191,396,0 240,386,267,434,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_3.png 146,253,208,284,0 284,543,331,582,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_5.png 72,385,106,417,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_7.png 252,418,314,477,0 313,483,352,534,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_8.png 96,273,166,335,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z84_9.png 205,75,243,126,0 365,142,405,179,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_11.png 212,361,259,471,0 206,5,247,37,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_12.png 142,506,184,546,0 131,65,179,90,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_13.png 98,108,166,172,0 30,30,68,66,0 219,435,238,456,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_14.png 247,124,302,152,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_2.png 170,360,191,394,0 241,384,266,431,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_3.png 147,251,212,289,0 284,540,331,584,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_5.png 71,390,109,416,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_7.png 253,418,314,477,0 311,486,350,536,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_8.png 100,275,166,334,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z85_9.png 204,80,240,124,0 362,139,410,180,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_1.png 206,216,240,262,0 31,375,57,410,0 403,311,492,530,0 479,406,510,490,0 458,502,481,533,0 457,233,501,302,0 426,142,473,232,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_10.png 77,201,103,266,0 203,370,222,438,0 367,444,390,479,0 490,524,508,545,0 396,351,413,369,0 402,242,439,381,0 190,105,225,176,0 367,55,390,100,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_11.png 192,265,228,344,0 402,427,444,476,0 441,479,487,553,0 489,360,511,392,0 420,301,482,400,0 427,206,449,244,0 385,108,417,166,0 178,84,203,129,0 198,55,226,106,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_12.png 21,321,64,398,0 189,527,216,578,0 183,3,229,62,0 409,81,443,130,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_13.png 195,277,221,335,0 170,480,184,558,0 422,575,481,599,0 435,53,489,115,0 195,118,219,154,0 195,66,222,109,0 158,42,178,79,0 21,25,87,77,0 86,127,114,189,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_14.png 70,437,119,503,0 71,544,133,599,0 457,276,486,299,0 480,196,494,217,0 423,43,489,75,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_15.png 38,156,70,212,0 87,26,113,48,0 390,106,448,176,0 413,287,466,414,0 402,312,449,361,0 480,555,501,599,0 433,578,474,600,0 12,456,46,515,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_2.png 98,140,135,235,0 402,386,441,455,0 1,530,27,577,0 406,1,450,37,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_3.png 172,56,199,121,0 200,102,246,190,0 496,196,519,270,0 1,295,15,340,0 52,491,71,540,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_4.png 16,375,49,394,0 391,348,435,380,0 445,355,463,379,0 413,231,466,305,0 393,218,415,242,0 356,433,433,586,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_5.png 309,114,338,184,0 336,172,369,217,0 236,250,267,303,0 419,265,458,284,0 387,46,472,106,0 69,123,135,213,0 12,79,50,112,0 62,500,119,560,0 336,348,371,492,0 385,343,420,394,0 415,353,459,440,0 422,475,474,494,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_6.png 466,531,506,565,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_7.png 130,427,186,542,0 172,489,213,586,0 389,192,415,268,0 350,47,388,168,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_8.png 188,495,218,555,0 340,343,367,393,0 460,305,499,412,0 312,87,341,133,0 477,29,501,75,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z86_9.png 190,296,219,325,0 403,250,448,308,0 199,118,226,185,0 357,46,392,105,0 199,563,218,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_1.png 338,463,393,496,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_10.png 361,321,385,384,0 362,509,413,558,0 91,480,112,516,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_11.png 146,45,196,106,0 165,437,221,463,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_12.png 43,389,96,437,0 361,357,405,399,0 380,305,405,324,0 368,244,410,289,0 356,122,378,189,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_13.png 80,125,132,164,0 333,194,402,243,0 453,59,496,107,0 55,540,106,583,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_14.png 283,180,319,208,0 325,280,365,339,0 197,438,220,477,0 487,492,515,548,0 48,15,74,79,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_15.png 219,257,279,344,0 361,197,408,231,0 61,193,111,250,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_2.png 100,93,124,133,0 311,453,327,500,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_3.png 300,145,346,167,0 361,484,414,564,0 77,2,136,36,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_4.png 283,474,322,514,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_5.png 190,371,233,406,0 369,285,409,337,0 487,456,515,478,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_6.png 186,507,246,583,0 433,299,471,336,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_7.png 206,363,257,419,0 59,205,88,240,0 263,247,283,310,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_8.png 350,538,392,562,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z87_9.png 42,258,96,304,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_1.png 340,154,400,237,0 274,513,325,575,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_10.png 167,164,209,233,0 424,90,458,148,0 5,452,49,565,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_11.png 70,368,107,408,0 235,448,322,575,0 111,577,154,591,0 340,183,390,205,0 311,61,413,140,0 182,24,262,52,0 15,84,80,177,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_12.png 327,171,395,269,0 83,49,122,106,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_13.png 2,236,69,371,0 84,149,118,184,0 332,409,394,527,0 448,561,491,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_14.png 327,204,375,267,0 346,391,397,435,0 315,550,368,600,0 71,35,132,71,0 318,10,400,66,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_15.png 58,223,74,300,0 13,230,28,256,0 328,389,403,505,0 436,193,491,294,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_2.png 237,99,287,212,0 338,131,381,213,0 42,58,88,88,0 235,370,265,408,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_3.png 281,192,359,276,0 326,289,390,361,0 328,425,394,473,0 282,1,347,60,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_4.png 338,211,393,306,0 442,280,509,353,0 1,62,22,190,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_6.png 366,45,429,84,0 287,1,358,69,0 44,1,81,46,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_7.png 1,430,74,594,0 38,550,64,595,0 385,25,428,115,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_8.png 49,287,78,364,0 290,198,334,253,0 375,139,423,188,0 459,429,512,524,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z88_9.png 129,236,192,315,0 437,268,490,350,0 329,1,397,115,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_1.png 264,184,304,230,0 447,86,478,161,0 398,3,455,73,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_10.png 376,320,426,464,0 469,105,503,129,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_11.png 176,396,216,439,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_12.png 89,307,120,345,0 449,199,481,301,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_13.png 478,210,513,274,0 118,533,162,575,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_14.png 453,230,491,284,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_15.png 105,61,149,187,0 483,211,511,289,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_3.png 51,342,77,385,0 427,180,455,215,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_4.png 90,208,121,252,0 486,369,515,459,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_7.png 3,281,58,328,0 170,383,201,421,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_8.png 5,17,73,77,0 5,285,44,319,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z89_9.png 171,334,200,367,0 1,203,56,263,0 426,300,477,403,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z8_1.png 347,409,383,463,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z8_12.png 392,162,468,322,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z8_13.png 381,155,407,172,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z8_14.png 318,394,388,502,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_1.png 359,442,395,468,0 366,487,446,548,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_10.png 150,167,199,212,0 343,268,423,380,0 497,40,518,70,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_11.png 59,278,115,352,0 276,283,326,320,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_12.png 44,225,74,271,0 244,396,277,440,0 454,504,516,553,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_13.png 75,268,134,327,0 272,498,380,556,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_14.png 241,446,315,495,0 235,49,316,128,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_15.png 235,460,310,529,0 263,553,352,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_2.png 92,296,128,353,0 234,307,318,380,0 78,10,129,53,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_3.png 402,268,443,293,0 81,118,131,160,0 190,1,270,28,0 210,524,240,542,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_4.png 228,195,324,248,0 275,311,395,401,0 73,104,124,135,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_5.png 8,274,69,296,0 348,346,414,424,0 223,9,278,51,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_6.png 66,151,124,194,0 261,118,364,168,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_7.png 288,274,353,335,0 280,104,377,169,0 180,1,233,49,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_8.png 310,482,409,583,0 197,532,296,586,0 288,182,365,245,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z90_9.png 85,388,113,455,0 247,551,333,589,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_1.png 468,107,496,165,0 195,491,261,524,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_10.png 197,237,232,280,0 475,265,499,314,0 450,6,506,45,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_11.png 193,472,220,497,0 452,343,509,393,0 15,126,81,174,0 181,106,205,128,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_12.png 50,372,116,407,0 122,407,200,455,0 27,477,56,521,0 37,540,118,583,0 77,589,103,600,0 194,159,264,219,0 442,134,508,180,0 471,279,506,302,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_14.png 145,154,186,190,0 109,95,167,130,0 209,64,258,96,0 443,441,510,524,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_15.png 137,168,174,231,0 431,123,495,154,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_3.png 218,219,288,299,0 439,136,499,178,0 131,524,167,553,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_4.png 140,189,196,236,0 81,52,151,95,0 450,22,503,67,0 118,393,206,433,0 136,483,192,515,0 40,524,106,559,0 123,563,210,596,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_5.png 20,193,107,220,0 38,236,102,257,0 129,148,215,183,0 152,74,191,143,0 139,424,201,470,0 224,455,260,490,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_6.png 141,262,202,307,0 108,333,191,356,0 124,417,196,459,0 133,502,185,523,0 124,536,203,562,0 1,159,15,239,0 205,82,268,118,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_7.png 135,278,206,318,0 118,204,205,236,0 86,159,163,180,0 116,21,194,86,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_8.png 137,296,214,333,0 79,545,130,592,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z91_9.png 457,252,506,311,0 469,324,512,351,0 3,520,66,590,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_1.png 266,263,307,314,0 131,364,166,390,0 5,408,37,456,0 189,544,223,573,0 479,470,511,512,0 467,185,507,218,0 169,40,210,80,0 249,79,296,140,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_10.png 176,233,206,275,0 374,442,401,467,0 434,275,496,455,0 24,189,77,239,0 35,145,66,175,0 172,38,209,64,0 182,169,229,199,0 15,426,43,458,0 47,558,94,592,0 354,584,383,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_11.png 247,121,280,194,0 302,136,360,204,0 369,347,414,440,0 406,318,436,428,0 365,103,412,131,0 434,74,454,152,0 249,1,323,70,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_12.png 93,411,132,470,0 112,527,134,569,0 146,577,205,600,0 266,509,315,568,0 360,386,410,452,0 466,252,508,302,0 358,136,407,239,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_13.png 141,259,183,284,0 59,280,84,316,0 269,241,315,299,0 322,271,350,330,0 383,364,409,405,0 291,403,347,462,0 241,418,277,451,0 148,483,201,600,0 483,277,515,373,0 382,182,412,233,0 286,56,344,92,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_14.png 83,118,167,286,0 6,228,35,289,0 78,515,129,554,0 300,550,358,596,0 369,536,399,574,0 388,304,422,350,0 381,257,427,297,0 230,87,260,127,0 270,73,308,108,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_15.png 59,200,90,274,0 100,462,143,552,0 51,546,97,590,0 264,449,318,493,0 333,506,399,600,0 405,176,461,218,0 375,18,422,81,0 22,21,80,87,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_2.png 46,296,97,342,0 96,289,131,343,0 224,351,275,384,0 285,304,310,439,0 229,503,263,547,0 352,186,391,242,0 432,81,488,134,0 58,2,147,93,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_3.png 174,130,211,169,0 185,248,215,275,0 212,438,248,480,0 118,490,167,528,0 413,347,453,415,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_4.png 296,303,332,320,0 297,328,341,349,0 366,319,400,362,0 411,494,472,600,0 185,542,219,570,0 247,18,277,61,0 474,39,513,123,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_5.png 277,264,320,314,0 384,352,419,398,0 476,460,511,523,0 459,552,499,586,0 365,558,409,588,0 285,556,323,600,0 16,296,40,334,0 23,18,42,54,0 265,89,313,156,0 394,143,429,189,0 450,178,520,282,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_6.png 17,145,118,196,0 41,277,92,320,0 170,474,206,507,0 251,521,300,570,0 181,546,221,567,0 356,308,417,371,0 453,417,504,457,0 270,187,309,222,0 384,15,419,42,0 475,35,510,105,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_7.png 344,111,377,166,0 353,326,444,410,0 322,422,405,457,0 75,422,134,460,0 466,275,495,297,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_8.png 326,127,363,181,0 385,150,414,190,0 384,90,420,120,0 13,347,48,399,0 95,390,122,406,0 90,413,128,467,0 166,436,219,473,0 50,492,83,528,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z92_9.png 184,156,220,191,0 16,239,34,277,0 154,489,197,596,0 300,433,331,467,0 343,156,393,182,0 368,121,394,173,0 397,92,423,146,0 361,72,415,103,0 475,139,510,207,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_1.png 156,425,243,510,0 103,556,166,596,0 251,237,284,266,0 364,62,483,120,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_10.png 84,247,187,332,0 356,288,386,326,0 427,90,497,155,0 5,104,31,144,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_11.png 6,195,24,225,0 3,242,22,263,0 5,291,24,326,0 185,443,230,467,0 493,244,525,261,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_12.png 4,178,40,219,0 173,14,229,49,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_13.png 78,469,166,556,0 174,562,214,587,0 1,544,31,575,0 1,94,30,122,0 286,47,329,85,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_14.png 183,205,248,255,0 294,295,321,327,0 282,128,321,156,0 286,436,336,458,0 168,390,237,440,0 3,239,41,256,0 4,192,48,217,0 3,28,31,48,0 1,450,27,498,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_15.png 80,177,176,243,0 1,79,22,120,0 195,413,224,455,0 287,481,317,524,0 184,515,211,566,0 199,580,221,600,0 8,506,112,553,0 3,356,32,383,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_2.png 194,427,222,471,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_3.png 52,483,137,589,0 432,301,477,323,0 452,574,492,600,0 218,5,257,42,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_4.png 44,2,99,44,0 37,151,99,200,0 43,267,96,309,0 60,392,163,452,0 185,381,222,467,0 43,509,99,542,0 48,549,93,565,0 463,424,514,473,0 442,225,500,255,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_5.png 42,188,100,230,0 84,271,173,331,0 95,354,166,412,0 446,383,484,430,0 474,496,511,530,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_6.png 130,216,206,273,0 283,154,322,194,0 47,127,142,237,0 190,45,226,86,0 100,512,178,566,0 1,502,23,530,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_7.png 257,317,352,374,0 80,402,162,491,0 393,35,456,86,0 1,581,32,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_8.png 169,337,235,380,0 381,246,450,296,0 396,375,461,410,0 436,440,500,485,0 94,565,155,600,0 5,496,40,525,0 2,445,15,481,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z93_9.png 94,291,162,352,0 125,478,215,546,0 316,405,356,445,0 182,128,225,158,0 190,42,229,69,0 235,11,326,87,0 493,106,512,134,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_1.png 120,393,186,460,0 134,223,185,255,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_10.png 186,216,234,272,0 183,385,240,423,0 196,131,225,169,0 197,67,228,100,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_11.png 172,146,228,175,0 250,114,284,185,0 193,420,228,467,0 186,15,235,60,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_12.png 193,275,226,328,0 181,78,226,100,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_13.png 153,155,171,170,0 133,506,188,550,0 416,526,464,548,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_14.png 428,70,456,97,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_15.png 327,446,367,499,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_2.png 138,445,188,508,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_3.png 128,374,178,432,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_4.png 144,206,175,253,0 135,423,182,455,0 393,408,431,453,0 415,577,493,600,0 321,581,355,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_5.png 109,256,177,281,0 171,308,223,348,0 29,323,70,365,0 130,454,180,487,0 149,76,177,150,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_6.png 147,142,178,202,0 191,124,230,166,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_7.png 56,500,102,565,0 294,59,335,103,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_8.png 189,191,232,224,0 304,461,326,600,0 433,293,469,382,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z94_9.png 183,375,231,408,0 202,525,228,561,0 190,584,221,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_1.png 4,145,110,353,0 184,217,269,347,0 329,220,380,313,0 186,536,279,590,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_10.png 303,61,350,109,0 343,550,385,599,0 431,552,467,594,0 21,175,65,260,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_12.png 83,56,124,134,0 414,389,473,461,0 462,552,496,595,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_13.png 198,361,243,420,0 161,573,215,596,0 463,152,506,219,0 308,6,360,74,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_15.png 109,217,130,262,0 191,153,227,194,0 212,318,248,366,0 191,449,234,501,0 13,397,102,525,0 442,499,475,597,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_2.png 1,517,32,596,0 321,574,380,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_3.png 185,199,275,292,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_4.png 187,216,248,293,0 180,351,267,384,0 7,209,82,289,0 181,569,205,599,0 430,558,469,580,0 187,21,223,45,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_5.png 206,208,260,252,0 207,72,240,147,0 29,109,87,230,0 20,342,93,443,0 186,414,253,450,0 433,211,473,234,0 429,47,460,87,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_6.png 186,210,229,255,0 199,290,256,364,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_7.png 170,395,211,419,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_8.png 238,66,296,128,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z95_9.png 66,154,104,183,0 332,478,385,546,0 83,26,119,109,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_1.png 187,354,221,424,0 357,492,399,540,0 346,141,387,221,0 130,554,160,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_10.png 93,187,121,235,0 131,263,151,303,0 185,569,221,593,0 439,512,475,541,0 470,471,508,522,0 434,273,488,309,0 449,427,474,442,0 408,175,443,220,0 363,120,387,163,0 455,9,509,80,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_11.png 125,342,156,420,0 89,424,132,450,0 301,500,328,584,0 159,28,227,118,0 20,13,51,57,0 418,9,459,53,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_12.png 290,237,324,276,0 411,275,469,330,0 480,499,513,553,0 181,361,216,438,0 125,278,170,348,0 146,160,184,256,0 111,3,150,42,0 484,14,512,56,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_13.png 171,184,222,261,0 150,105,180,134,0 205,286,231,305,0 166,350,225,409,0 177,416,216,441,0 37,275,64,302,0 208,505,228,530,0 354,483,372,534,0 451,305,469,325,0 463,259,493,351,0 305,55,333,100,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_14.png 91,277,124,329,0 70,318,98,359,0 50,384,99,446,0 119,383,151,428,0 23,90,58,136,0 180,11,218,77,0 384,64,409,98,0 442,149,485,208,0 475,470,503,509,0 377,493,399,523,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_15.png 325,235,378,302,0 405,281,440,307,0 481,310,505,380,0 377,39,394,67,0 413,27,445,63,0 359,147,385,178,0 132,506,156,558,0 17,531,41,578,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_2.png 144,250,183,387,0 181,145,222,208,0 131,44,163,76,0 10,18,41,53,0 466,109,510,178,0 441,240,493,293,0 444,395,501,426,0 117,578,172,600,0 181,2,212,51,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_3.png 352,187,386,256,0 419,343,457,381,0 380,409,428,450,0 500,369,520,416,0 92,416,125,436,0 73,314,92,359,0 97,160,138,235,0 96,104,125,136,0 85,30,123,58,0 187,73,221,139,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_4.png 99,254,138,305,0 103,374,135,408,0 132,418,159,445,0 127,453,167,475,0 83,489,146,525,0 38,518,92,591,0 8,349,35,377,0 52,119,81,159,0 113,106,140,124,0 288,120,327,156,0 413,61,452,107,0 456,118,502,164,0 444,15,494,97,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_5.png 301,365,334,414,0 391,429,432,461,0 454,113,497,258,0 213,24,240,64,0 30,8,72,49,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_6.png 187,235,221,319,0 362,354,394,414,0 354,406,379,427,0 416,491,440,525,0 469,513,496,554,0 356,530,386,551,0 352,583,386,600,0 26,560,55,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_7.png 190,357,220,443,0 91,516,128,575,0 476,537,503,575,0 468,283,501,345,0 389,222,431,270,0 450,190,475,233,0 481,140,513,196,0 351,152,388,213,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_8.png 94,158,127,197,0 430,354,446,384,0 480,568,507,600,0 181,561,233,597,0 1,487,39,527,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z96_9.png 128,163,161,198,0 22,102,46,144,0 358,333,394,417,0 357,434,382,448,0 447,317,512,382,0 440,394,506,461,0 472,518,509,599,0 404,123,440,159,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_1.png 411,519,435,596,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_10.png 61,293,96,342,0 496,221,519,264,0 500,396,513,471,0 59,574,112,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_11.png 177,336,231,372,0 372,186,415,221,0 500,43,517,103,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_12.png 171,84,232,157,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_13.png 319,476,357,501,0 297,529,371,545,0 498,470,515,498,0 499,511,512,541,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_14.png 212,111,254,196,0 263,95,306,155,0 499,62,522,105,0 501,208,516,249,0 495,331,514,362,0 504,530,519,577,0 162,266,241,337,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_15.png 87,164,119,186,0 17,318,145,412,0 468,433,519,460,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_2.png 108,302,152,361,0 3,205,41,240,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_3.png 130,285,155,326,0 292,458,339,512,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_4.png 56,295,108,369,0 57,389,101,424,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_5.png 124,326,192,433,0 49,311,107,363,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_6.png 55,488,105,567,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_7.png 30,147,94,249,0 159,406,188,454,0 165,456,233,494,0 178,499,211,521,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z97_8.png 290,317,346,365,0 394,167,422,213,0 500,50,521,114,0 55,130,77,218,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_1.png 1,355,32,399,0 29,392,68,415,0 105,411,161,499,0 99,37,162,83,0 208,60,260,117,0 16,218,69,245,0 416,509,446,531,0 8,570,85,598,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_10.png 40,364,63,398,0 1,266,36,297,0 22,192,82,227,0 34,13,109,79,0 406,18,446,49,0 479,350,512,393,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_11.png 10,196,91,231,0 100,200,183,249,0 93,260,188,310,0 44,402,106,487,0 37,80,114,123,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_12.png 1,211,44,246,0 463,577,499,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_13.png 2,351,45,389,0 5,503,37,542,0 1,580,47,600,0 15,142,110,176,0 2,183,47,211,0 355,8,378,42,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_14.png 4,268,42,307,0 4,447,52,483,0 10,572,71,592,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_15.png 31,239,119,275,0 2,340,50,360,0 27,435,121,466,0 4,515,41,562,0 409,450,433,490,0 403,557,446,588,0 460,173,504,199,0 109,25,172,50,0 4,72,21,115,0 2,4,46,28,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_2.png 1,278,49,314,0 46,61,102,92,0 27,476,75,511,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_3.png 203,357,276,415,0 34,408,114,434,0 15,131,77,160,0 91,545,182,580,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_4.png 19,194,84,225,0 65,236,112,267,0 1,248,43,286,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_5.png 22,320,90,360,0 5,204,42,241,0 18,153,77,186,0 19,34,71,69,0 347,148,394,177,0 65,1,99,21,0 8,523,37,569,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_6.png 6,252,91,287,0 1,293,48,329,0 14,459,93,492,0 32,576,109,599,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_7.png 98,127,178,160,0 1,124,41,174,0 9,246,53,285,0 15,317,91,348,0 1,416,40,487,0 25,570,126,598,0 406,431,455,462,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_8.png 4,502,49,579,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z98_9.png 95,259,175,327,0 2,224,38,250,0 360,196,377,291,0 408,204,449,248,0 84,439,193,475,0 458,43,518,91,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_1.png 12,219,68,249,0 6,356,31,398,0 28,391,69,415,0 100,410,173,440,0 419,512,447,533,0 11,572,76,600,0 208,61,261,120,0 99,38,168,76,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_10.png 38,365,65,398,0 3,263,35,297,0 24,192,86,226,0 482,355,516,394,0 410,19,453,56,0 25,16,113,74,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_11.png 96,202,190,246,0 96,262,183,314,0 12,192,93,229,0 35,81,118,117,0 41,395,111,477,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_13.png 1,347,51,392,0 1,186,49,213,0 17,150,126,179,0 355,7,384,43,0 1,497,44,546,0 1,579,49,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_14.png 1,261,50,317,0 12,444,47,493,0 8,568,75,595,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_15.png 28,237,125,311,0 3,339,49,363,0 30,436,124,502,0 2,514,46,556,0 408,447,436,495,0 405,556,446,591,0 455,168,506,202,0 98,25,190,105,0 5,70,22,120,0 1,6,52,28,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_2.png 41,60,100,92,0 5,281,48,315,0 21,477,78,512,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_3.png 198,357,275,416,0 102,543,164,596,0 26,408,114,435,0 11,131,81,162,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_4.png 64,243,115,267,0 1,248,43,291,0 20,194,89,228,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_5.png 350,149,396,181,0 21,152,82,192,0 1,199,32,243,0 19,309,89,359,0 1,527,53,583,0 17,33,78,75,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_6.png 6,249,94,290,0 3,292,41,321,0 21,459,86,490,0 34,574,105,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_7.png 15,314,85,349,0 405,427,453,461,0 93,124,181,193,0 1,124,38,171,0 14,250,58,285,0 5,416,42,486,0 24,568,116,600,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z99_9.png 360,198,376,293,0 408,205,453,239,0 465,39,512,91,0 2,221,41,254,0 96,261,182,329,0 99,437,171,470,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z9_10.png 204,42,231,105,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z9_11.png 336,295,356,355,0 394,280,417,400,0 469,236,496,405,0 213,2,235,31,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z9_12.png 98,452,144,472,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z9_13.png 471,309,501,334,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z9_3.png 254,421,280,474,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z9_4.png 88,261,118,332,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z9_5.png 472,284,497,383,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z9_6.png 336,6,374,93,0
+D:\pythonprogram\spark\frcnn/VOCdevkit/VOC2007/JPEGImages/z9_7.png 325,88,371,121,0 149,413,176,456,0

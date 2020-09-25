@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>z53_5.jpg</filename>
+	<path>C:\Users\11054\Desktop\frcnn\VOCdevkit\VOC2007\JPEGImages\z53_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>185</ymin>
+			<xmax>411</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>
